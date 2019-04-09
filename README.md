@@ -1,5 +1,8 @@
 # IPPP_Spring19_1
 
+NAME YOUR HOMEWORK FILE: AssignmentNumber_LastName_FirstName.py
+e.g.: 1_Levy_Jeff.py
+
 Homework must be submitted to the correct repository in order to count.
 
 Homework must be submitted by the following Monday at midnight.
